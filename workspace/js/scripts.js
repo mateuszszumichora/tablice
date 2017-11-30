@@ -8,3 +8,4 @@ if (allNames.indexOf(newName) === -1) {
 	var allNames2 = allNames.push(newName);
 } else {
 }
+console.log(allNames);
